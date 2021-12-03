@@ -1,4 +1,4 @@
-# **DESAFIO RECRUTA BASE2
+# DESAFIO RECRUTA BASE2
 
 <img src="img/Recruta Base2.png"/>
 
