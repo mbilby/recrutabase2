@@ -1,6 +1,6 @@
 # **DESAFIO RECRUTA BASE2
 
-![](D:\Base2\RecrutaBase2\img\Recruta Base2.png)
+![](img/Recruta Base2.png)
 
 
 
