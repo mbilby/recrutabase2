@@ -1,6 +1,6 @@
 # **DESAFIO RECRUTA BASE2
 
-![](img/Recruta Base2.png)
+<img src="img/Recruta Base2.png"/>
 
 
 
